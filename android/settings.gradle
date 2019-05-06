@@ -1,0 +1,3 @@
+rootProject.name = 'to_give_or_to_get_2998'
+
+include ':app'
